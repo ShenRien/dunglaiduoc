@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'vi-VN'
+title = 'Đứng lại được'
+theme = 'shenland'
