@@ -4,7 +4,7 @@ date = 2026-10-29T06:19:06+07:00
 draft = true
 +++
 
-Hôm nay nình thức hơi trễ rồi. Thật sự mà nói thì mình mong là thức như vậy thì vừa đủ để suy nghĩ và cũng để cho sức khỏe được nghỉ ngơi và hồi phục. Dù sao thì cần sa cũng kéo mình xuống một phần nào đó. Và làm mình xa rời với thực tại.
+Hôm nay nình thức hơi trễ rồi. Thật sự mà nói thì mình mong là thức như vậy thì vừa đủ để suy nghĩ và cũng để cho sức khỏe được nghỉ ngơi và hồi phục. Dù sao thì cũng kéo mình xuống một phần nào đó. Và làm mình xa rời với thực tại.
 
 ### Chỉnh chu
 

@@ -1,2 +1,7 @@
-<div id="site-title"><h1>{{ site.Title }}</h1></div>
+<div class="favicon-title" >
+    <img src="/favicon.ico" width="150px" height="150px" />
+    <div id="site-title" class="content-center">
+        <h1 id="site-titleh1">{{ site.Title }}</h1>
+    </div>
+</div>
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}

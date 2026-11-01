@@ -23,18 +23,58 @@ a {
 }
 
 #site-title {
-    background-color: #FEC145;
-    padding-left: 2rem;
-    padding-right: 2rem;
-    padding-top: 0.05rem;
-    padding-bottom: 0.05rem;
+    display: flex;
+  align-items: center;
+  }
+#site-titleh1 {
+  
+    background-color: #a3a3;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
     border-radius: 1rem;
-    width: fit-content;
+    height: auto;
 }
 
 #post-item {
-  border:#222;
+  border: dashed 1px #0FD9B3;
   background-color: #F6FAF8;
   padding: 1rem;
+  margin: 0 0.3rem 0 0.3rem;
   border-radius: 1.5rem;
+}
+
+.post-item-title {
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+    margin-top: 1rem;
+/*    margin-bottom: -.1rem;*/
+}
+
+.post-item-title a {
+    color: #000;
+    border-radius: .5rem .5rem 0 0;
+    padding: .3rem 1rem 0 1rem;
+    background: #FFEB90;
+    background: #FFEB97;
+    background: linear-gradient(90deg, rgba(255, 235, 151, 1) 0%, rgba(88, 55, 20, 1) 100%);
+}
+
+.post-item-content {
+    color: #fff;
+    padding: 0.8rem;
+    background-color: #333;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-radius: 0 .3rem .6rem .6rem;
+}
+
+.favicon-title {
+   display: flex;
+  flex-direction: row;
+}
+
+.favicon-title img {
+  display: inline;
 }

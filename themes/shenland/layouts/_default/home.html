@@ -3,8 +3,9 @@
 
   <div id="post-item">
   {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
+    <h2 class="post-item-title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    <div class="post-item-content">{{ .Summary }}</div>
   {{ end }}
   </div>
+  
 {{ end }}
