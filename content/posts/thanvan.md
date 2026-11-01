@@ -4,7 +4,7 @@ date = 2026-10-30T06:03:17+07:00
 draft = true
 +++
 
-Lại là một ngày trống rỗng (sẽ) vì không giữ được độ tinh khiết bên trong mình. Không giữ nguyên được để có thể chuyển hóa nó. Đảy đi hoặc dùng những yếu tố bên ngoài giảm thiểu nó là một sự thụt lùi nghiêm túc của tâm trí.
+Lại là một ngày trống rỗng (sẽ) vì không giữ được độ tinh khiết bên trong mình. Không giữ nguyên được để có thể chuyển hóa nó. Đẩy đi hoặc dùng những yếu tố bên ngoài giảm thiểu nó là một sự thụt lùi nghiêm túc của tâm trí.
 
 Về mặt an yên một chút thì mong đừng đặt mình vào những bối cảnh mà ở đó mình phải là một thực thể gì đó hoàn hảo hết mức có thể, mặc dù là rơi xuống là một cảm giác hết mức đau đớn tột cùng. Nhưng điều đó không có nghĩa là nên cảm thấy mình tệ hại và tội lỗi khi để mình rơi xuống. Hãy luôn giữ mình ở giữa.
 
