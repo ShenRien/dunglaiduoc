@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tusixmodes on Đứng lại được</title>
+    <link>http://localhost:1313/tusixmode/</link>
+    <description>Recent content in Tusixmodes on Đứng lại được</description>
+    <generator>Hugo</generator>
+    <language>vi-VN</language>
+    <lastBuildDate>Thu, 29 Oct 2026 06:32:54 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tusixmode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hayla</title>
+      <link>http://localhost:1313/tusixmode/hayla/</link>
+      <pubDate>Thu, 29 Oct 2026 06:32:54 +0700</pubDate>
+      <guid>http://localhost:1313/tusixmode/hayla/</guid>
+      <description>Một trang thực thể cho tất cả mọi thứ</description>
+    </item>
+  </channel>
+</rss>
