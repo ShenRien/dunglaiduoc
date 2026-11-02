@@ -1,6 +1,11 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-US'
+languageCode = 'vi-VN'
 title = 'Đứng lại được'
+
+defaultContentLanguage = 'vi-VN'
+defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = false
+disableLanguages = []
 
 [[menus.main]]
 name = 'Home'

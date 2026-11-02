@@ -27,7 +27,7 @@ a {
   align-items: center;
   }
 #site-titleh1 {
-  
+
     background-color: #a3a3;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
@@ -88,4 +88,9 @@ a {
 
 #nav-menu-item {
   padding: .1rem;
+}
+
+#single {
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
