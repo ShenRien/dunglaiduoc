@@ -1,3 +1,5 @@
-import { inject } from "@vercel/analytics"
+<srcipt>
+import {inject} from "@vercel/analytics"
 
 inject()
+</srcipt>
