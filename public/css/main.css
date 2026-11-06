@@ -39,7 +39,8 @@ a {
 
 #post-item {
   border: dashed 1px #0FD9B3;
-  background-color: #F6FAF8;
+  background-color: #F6FAF880;
+  backdrop-filter: blur(3px);
   padding: 1rem;
   margin: 0 0.3rem 0 0.3rem;
   border-radius: 1.5rem;

@@ -3,7 +3,14 @@
 <head>
   {{ partial "head.html" . }}
 </head>
-<body>
+<body style="
+    background-image: url('/background.png');
+    background-size: auto 120%;
+    background-color: #808080;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    ">
   <header>
     {{ partial "header.html" . }}
   </header>
