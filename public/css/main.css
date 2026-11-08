@@ -27,7 +27,7 @@ a {
   align-items: center;
   }
 #site-titleh1 {
-
+    backdrop-filter: blur(5px);
     background-color: #a3a3;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
@@ -82,13 +82,33 @@ a {
 
 #nav-menu {
   background-color: #0FD9B301;
+  color: #ffffff;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: wrap;
 }
 
 #nav-menu-item {
-  padding: .1rem;
+    background-color: #D9510F;
+    font-weight: 600;
+    border-radius: .5rem;
+  margin-left: 3rem;
+  padding: .5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+#nav-menu-item a {
+    color: #ffffff;
+}
+
+.index-main {
+    text-align: center;
+    background-color: #ffffff;
+    font-weight: 600;
+    padding-top: .3rem;
+    padding-bottom: .3rem;
+    margin-bottom: 1rem;
 }
 
 #single {
