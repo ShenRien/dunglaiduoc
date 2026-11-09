@@ -27,7 +27,8 @@ a {
   align-items: center;
   }
 #site-titleh1 {
-    backdrop-filter: blur(5px);
+    backdrop-filter: blur(.3rem);
+    -webkit-backdrop-filter: blur(.3rem);
     background-color: #a3a3;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
@@ -40,7 +41,8 @@ a {
 #post-item {
   border: dashed 1px #0FD9B3;
   background-color: #F6FAF880;
-  backdrop-filter: blur(3px);
+  backdrop-filter: blur(.2rem);
+  -webkit-backdrop-filter: blur(.2rem);
   padding: 1rem;
   margin: 0 0.3rem 0 0.3rem;
   border-radius: 1.5rem;
@@ -89,13 +91,15 @@ a {
 }
 
 #nav-menu-item {
-    background-color: #D9510F;
+    background-color: #D9510F80;
     font-weight: 600;
     border-radius: .5rem;
   margin-left: 3rem;
   padding: .5rem;
   padding-left: 1rem;
   padding-right: 1rem;
+  backdrop-filter: blur(.5rem);
+  -webkit-backdrop-filter: blur(.5rem);
 }
 
 #nav-menu-item a {
@@ -114,4 +118,13 @@ a {
 #single {
     padding-left: 1rem;
     padding-right: 1rem;
+}
+
+#single-content {
+  backdrop-filter: blur(.5rem);
+  -webkit-backdrop-filter: blur(.5rem);
+  color: white;
+  border: #ffffff50 .1rem solid;
+  border-radius: 1rem;
+  padding: 1rem;
 }
