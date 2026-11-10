@@ -36,11 +36,12 @@ a {
     padding-bottom: 0.5rem;
     border-radius: 1rem;
     height: auto;
+    width: auto;
 }
 
 #post-item {
   border: dashed 1px #0FD9B3;
-  background-color: #F6FAF880;
+  background-color: #F6FAF820;
   backdrop-filter: blur(.2rem);
   -webkit-backdrop-filter: blur(.2rem);
   padding: 1rem;

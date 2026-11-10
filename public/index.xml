@@ -37,17 +37,10 @@
       <description>Hôm nay nình thức hơi trễ rồi. Thật sự mà nói thì mình mong là thức như vậy thì vừa đủ để suy nghĩ và cũng để cho sức khỏe được nghỉ ngơi và hồi phục. Dù sao thì cũng kéo mình xuống một phần nào đó. Và làm mình xa rời với thực tại.&#xA;Chỉnh chu Cần có một (hoặc các) bài viết chỉnh chu hơn và có nhiều thứ để nói hơn, vậy thì thay vì làm nhạc, thứ mà đã do mình không trụ vững nổi với lối sống clean.</description>
     </item>
     <item>
-      <title>Cokhi</title>
-      <link>http://localhost:1313/posts/cokhi/</link>
-      <pubDate>Mon, 26 Oct 2026 06:03:49 +0700</pubDate>
-      <guid>http://localhost:1313/posts/cokhi/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Có khi</title>
-      <link>http://localhost:1313/cokhi/</link>
+      <link>http://localhost:1313/posts/cokhi/</link>
       <pubDate>Mon, 26 Oct 2026 06:02:57 +0700</pubDate>
-      <guid>http://localhost:1313/cokhi/</guid>
+      <guid>http://localhost:1313/posts/cokhi/</guid>
       <description>Codium là một cỗ máy so với terminal, nhưng thiết lập SWAY ban đầu lại chưa đủ cho phép gõ tiếng Việt được. Trình soạn thảo văn bản có thể đáp ứng cho tiêu chí đó, là Emacs.&#xA;Nói cách điệu văn chương thôi.&#xA;Cửa sổ mở ra hay đóng lại lại hoàn toàn thuộc về hai trạng thái khác nhau. Vì nó là hai không gian riêng biệt.&#xA;Để mình có thể luôn tự đọc lại của chính mình được đó là mình luôn nghiêm túc ngay từ lúc đầu.</description>
     </item>
     <item>
