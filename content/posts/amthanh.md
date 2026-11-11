@@ -23,3 +23,9 @@ Cuộc gặp mặt là một cuộc kết nối, không cần thiết phải là
 Hãy cứ để mọi thứ đẹp nhất là những thứ hiện đang có trước mắt, là cái cần được xây dựng chứ không phải những miên man tư tưởng ở xa xôi đâu đó trong tương lai.
 
 Lâu rồi không thấy ai dùng từ vô minh nữa, chắc người ta đã hết vô minh rồi.
+
+---
+
+Âm thanh chỉ phản ánh trạng thái ý thức và tâm thức, âm thanh không phải là lửa, chữ viết mới là lửa. Giai điệu có tính kết nối, từ trạng thái sâu thẳm nhất đến trạng thái hùng hồn nhất. Âm thanh phát ra từ linh hồn và phản chiếu thực tại, nên âm thanh có tính chất sâu lắng. Câu từ thì mô phỏng Ý thức và những mong muốn, nên câu từ phát ra lửa.
+
+Nhưng người ta lầm tưởng ngược lại, những thứ phát ra từ miệng lưỡi không phải là lửa, đó là độc. Vì "những thứ cho vào miệng thì không độc, độc là những thứ từ miệng phát ra". Tính sát thương từ miệng lưỡi không xây dựng, mà nó phá hủy.
