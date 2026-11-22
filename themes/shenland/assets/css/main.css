@@ -75,8 +75,16 @@ a {
 }
 
 .favicon-title {
-   display: flex;
-  flex-direction: row;
+    display: flex;
+    flex-direction: row;
+}
+
+@media (max-width: 600px) {
+    .favicon-title {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 }
 
 .favicon-title img {
@@ -84,18 +92,22 @@ a {
 }
 
 #nav-menu {
-  background-color: #0FD9B301;
+  background-color: #0FD9B300;
   color: #ffffff;
+  padding: 0;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
 }
 
 #nav-menu-item {
     background-color: #D9510F80;
     font-weight: 600;
     border-radius: .5rem;
-  margin-left: 3rem;
+    margin: 0.1rem;
   padding: .5rem;
   padding-left: 1rem;
   padding-right: 1rem;
@@ -111,6 +123,7 @@ a {
     text-align: center;
     background-color: #ffffff;
     font-weight: 600;
+    padding: 0.1rem;
     padding-top: .3rem;
     padding-bottom: .3rem;
     margin-bottom: 1rem;
