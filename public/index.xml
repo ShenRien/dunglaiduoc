@@ -6,8 +6,15 @@
     <description>Recent content in Trang chủ on Đứng lại được</description>
     <generator>Hugo</generator>
     <language>vi-VN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 19:16:16 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:44:10 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vitridungdan</title>
+      <link>http://localhost:1313/posts/vitridungdan/</link>
+      <pubDate>Mon, 23 Nov 2026 18:44:10 +0700</pubDate>
+      <guid>http://localhost:1313/posts/vitridungdan/</guid>
+      <description>Như vậy là trong lúc người ta viết được ra cả một hệ thống về liquid glass css của Apple, và cái blog đó chỉ có duy nhất hai bài viết trong 10 năm. Thì mình ngồi đây và suy nghĩ tại sao mình nên viết tiếp bài gì đó cho blog của mình có thêm nhiều bài viết hơn. Hay chỉ đơn giản là giải tỏa mọi căng thẳng đang dồn nén trong đầu óc hiện tại.</description>
+    </item>
     <item>
       <title>Khonggianrieng</title>
       <link>http://localhost:1313/posts/khonggianrieng/</link>
